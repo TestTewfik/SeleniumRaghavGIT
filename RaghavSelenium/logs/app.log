@@ -1,0 +1,42 @@
+08:57:48.346 DEBUG testCases.LogginFile -Debug
+08:58:26.346 DEBUG testCases.LogginFile -Debug
+09:01:43.892 INFO  utils.Exceldataprovider -userName ==> Admin1
+09:01:43.938 INFO  utils.Exceldataprovider -password ==> 123
+09:01:46.561 INFO  utils.Exceldataprovider -userName ==> Admin2
+09:01:46.596 INFO  utils.Exceldataprovider -password ==> d124
+09:01:49.224 INFO  utils.Exceldataprovider -userName ==> Admin3
+09:01:49.262 INFO  utils.Exceldataprovider -password ==> 56554
+09:01:51.819 INFO  utils.Exceldataprovider -userName ==> Admin
+09:01:51.857 INFO  utils.Exceldataprovider -password ==> admin1231
+09:01:54.860 INFO  utils.Exceldataprovider -userName ==> Admin5
+09:01:54.894 INFO  utils.Exceldataprovider -password ==> 10%
+09:50:25.897 INFO  demo.Log4jDemo -This is information message
+09:50:25.901 ERROR demo.Log4jDemo -This is an error message
+09:50:25.902 WARN  demo.Log4jDemo -This is warn message
+09:50:25.902 FATAL demo.Log4jDemo -This is fatal message
+
+
+10:08:03.796 INFO  demo.Log4jDemo -This is information message
+10:08:03.800 ERROR demo.Log4jDemo -This is an error message
+10:08:03.800 WARN  demo.Log4jDemo -This is warn message
+10:08:03.800 FATAL demo.Log4jDemo -This is fatal message
+10:09:07.605 INFO  demo.Log4jDemo -This is information message
+10:09:07.609 ERROR demo.Log4jDemo -This is an error message
+10:09:07.609 WARN  demo.Log4jDemo -This is warn message
+10:09:07.609 FATAL demo.Log4jDemo -This is fatal message
+10:10:40.667 INFO  demo.Log4jDemo -This is information message
+10:10:40.670 ERROR demo.Log4jDemo -This is an error message
+10:10:40.670 WARN  demo.Log4jDemo -This is warn message
+10:10:40.670 FATAL demo.Log4jDemo -This is fatal message
+10:13:07.261 INFO  demo.Log4jDemo -This is information message
+10:13:07.265 ERROR demo.Log4jDemo -This is an error message
+10:13:07.265 WARN  demo.Log4jDemo -This is warn message
+10:13:07.265 FATAL demo.Log4jDemo -This is fatal message
+10:13:45.723 INFO  demo.Log4jDemo -This is information message
+10:13:45.726 ERROR demo.Log4jDemo -This is an error message
+10:13:45.726 WARN  demo.Log4jDemo -This is warn message
+10:13:45.726 FATAL demo.Log4jDemo -This is fatal message
+10:13:45.726 TRACE demo.Log4jDemo -TRACE MESAGE
+19:25:38.767 INFO  testCases.LogginFile -is Test1_googleClasse
+19:28:56.970 INFO  testCases.LogginFile -is Test1_googleClasse
+19:30:11.179 INFO  testCases.LogginFile -is Test1_googleClasse

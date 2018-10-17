@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="10895" started-at="2018-10-16T23:45:03Z" finished-at="2018-10-16T23:45:14Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="7882" started-at="2018-10-16T23:45:03Z" finished-at="2018-10-16T23:45:11Z">
+      <class name="demo.TestNGMultiBrowserDemo">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:demo.TestNGMultiBrowserDemo@4f7d0008]" name="setUp" is-config="true" duration-ms="2196" started-at="2018-10-16T19:45:03Z" finished-at="2018-10-16T19:45:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:demo.TestNGMultiBrowserDemo@4f7d0008]" name="test1" duration-ms="5535" started-at="2018-10-16T19:45:05Z" finished-at="2018-10-16T19:45:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demo.TestNGMultiBrowserDemo@4f7d0008]" name="tearDown" is-config="true" duration-ms="124" started-at="2018-10-16T19:45:11Z" finished-at="2018-10-16T19:45:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demo.TestNGMultiBrowserDemo -->
+    </test> <!-- Test2 -->
+    <test name="Test1" duration-ms="10895" started-at="2018-10-16T23:45:03Z" finished-at="2018-10-16T23:45:14Z">
+      <class name="demo.TestNGMultiBrowserDemo">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:demo.TestNGMultiBrowserDemo@6d4b1c02]" name="setUp" is-config="true" duration-ms="4936" started-at="2018-10-16T19:45:03Z" finished-at="2018-10-16T19:45:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:demo.TestNGMultiBrowserDemo@6d4b1c02]" name="test1" duration-ms="5253" started-at="2018-10-16T19:45:08Z" finished-at="2018-10-16T19:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demo.TestNGMultiBrowserDemo@6d4b1c02]" name="tearDown" is-config="true" duration-ms="696" started-at="2018-10-16T19:45:13Z" finished-at="2018-10-16T19:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demo.TestNGMultiBrowserDemo -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

@@ -1,0 +1,22 @@
+20:14:01.252 DEBUG testCases.LogginFile -Debug
+20:15:23.053 DEBUG testCases.LogginFile -Debug
+20:16:41.799 INFO  utils.Exceldataprovider -userName
+20:16:41.952 INFO  utils.Exceldataprovider -password
+20:16:44.628 INFO  utils.Exceldataprovider -userName
+20:16:44.716 INFO  utils.Exceldataprovider -password
+20:16:47.297 INFO  utils.Exceldataprovider -userName
+20:16:47.385 INFO  utils.Exceldataprovider -password
+20:16:49.894 INFO  utils.Exceldataprovider -userName
+20:16:49.998 INFO  utils.Exceldataprovider -password
+20:16:52.791 INFO  utils.Exceldataprovider -userName
+20:16:52.873 INFO  utils.Exceldataprovider -password
+20:19:39.599 INFO  utils.Exceldataprovider -userName ==> Admin1
+20:19:39.692 INFO  utils.Exceldataprovider -password ==> 123
+20:19:42.494 INFO  utils.Exceldataprovider -userName ==> Admin2
+20:19:42.578 INFO  utils.Exceldataprovider -password ==> d124
+20:19:45.145 INFO  utils.Exceldataprovider -userName ==> Admin3
+20:19:45.234 INFO  utils.Exceldataprovider -password ==> 56554
+20:19:47.743 INFO  utils.Exceldataprovider -userName ==> Admin
+20:19:47.846 INFO  utils.Exceldataprovider -password ==> admin1231
+20:19:50.656 INFO  utils.Exceldataprovider -userName ==> Admin5
+20:19:50.735 INFO  utils.Exceldataprovider -password ==> 10%
