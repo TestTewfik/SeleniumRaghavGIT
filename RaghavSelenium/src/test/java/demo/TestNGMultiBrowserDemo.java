@@ -19,7 +19,8 @@ public class TestNGMultiBrowserDemo {
 	WebDriver driver = null;
 	String projectPath = System.getProperty("user.dir");
 
-
+//	WebDriver driver = null;
+//	String projectPath = System.getProperty("user.dir");
 	
 	@Parameters("browserName")
 	@BeforeTest
