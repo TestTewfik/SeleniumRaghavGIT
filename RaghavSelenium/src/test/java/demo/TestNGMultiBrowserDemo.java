@@ -40,7 +40,7 @@ public class TestNGMultiBrowserDemo {
 	@Test
 	public void test1() throws Exception {
 		driver.get("https:google.com");
-		Thread.sleep(6000);
+		Thread.sleep(4000);
 
 	}
 
